@@ -19,12 +19,12 @@ namespace Cadastro_2
 
         private void button6_Click(object sender, EventArgs e)
         {
-
+          
         }
 
         private void Lbl_Bairro_Click(object sender, EventArgs e)
         {
-
+            Lbl_Resultado.Text = Txt_Bairro.Text;
         }
 
         private void groupBox1_Enter(object sender, EventArgs e)
@@ -47,6 +47,7 @@ namespace Cadastro_2
             BackgroundImage = Properties.Resources.girl_is_typing_laptop_keyboard_girls_hands_keyboard;
         }
 
+<<<<<<< HEAD
         private void Btn_Celular_Click(object sender, EventArgs e)
         {
 
@@ -55,6 +56,36 @@ namespace Cadastro_2
         private void Frm_cadastro_Load(object sender, EventArgs e)
         {
 
+=======
+        private void Btn_Nome_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = Txt_Nome.Text;
+        }
+
+        private void Btn_Sobrenome_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = Txt_Sobrenome.Text;
+        }
+
+        private void Btn_Idade_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = Txt_Idade.Text;
+        }
+
+        private void Btn_Bairro_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = Txt_Bairro.Text;
+        }
+
+        private void Btn_Celular_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = Txt_Celular.Text;
+        }
+
+        private void btn_Email_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = Txt_Email.Text;
+>>>>>>> 8af7a049e22362a27e0377c1e55dddfe9f33b982
         }
     }
 }

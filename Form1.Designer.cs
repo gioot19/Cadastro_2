@@ -173,6 +173,7 @@
             this.Btn_Nome.TabIndex = 12;
             this.Btn_Nome.Text = "Nome";
             this.Btn_Nome.UseVisualStyleBackColor = false;
+            this.Btn_Nome.Click += new System.EventHandler(this.Btn_Nome_Click);
             // 
             // Btn_Sobrenome
             // 
@@ -183,6 +184,7 @@
             this.Btn_Sobrenome.TabIndex = 13;
             this.Btn_Sobrenome.Text = "Sobrenome";
             this.Btn_Sobrenome.UseVisualStyleBackColor = false;
+            this.Btn_Sobrenome.Click += new System.EventHandler(this.Btn_Sobrenome_Click);
             // 
             // Btn_Idade
             // 
@@ -193,6 +195,7 @@
             this.Btn_Idade.TabIndex = 14;
             this.Btn_Idade.Text = "Idade";
             this.Btn_Idade.UseVisualStyleBackColor = false;
+            this.Btn_Idade.Click += new System.EventHandler(this.Btn_Idade_Click);
             // 
             // Btn_Bairro
             // 
@@ -203,6 +206,7 @@
             this.Btn_Bairro.TabIndex = 15;
             this.Btn_Bairro.Text = "Bairro";
             this.Btn_Bairro.UseVisualStyleBackColor = false;
+            this.Btn_Bairro.Click += new System.EventHandler(this.Btn_Bairro_Click);
             // 
             // Btn_Celular
             // 
@@ -228,12 +232,22 @@
             // 
             // lbl_Cadastro_Pessoal
             // 
+<<<<<<< HEAD
             this.lbl_Cadastro_Pessoal.AutoSize = true;
             this.lbl_Cadastro_Pessoal.Location = new System.Drawing.Point(361, 241);
             this.lbl_Cadastro_Pessoal.Name = "lbl_Cadastro_Pessoal";
             this.lbl_Cadastro_Pessoal.Size = new System.Drawing.Size(89, 13);
             this.lbl_Cadastro_Pessoal.TabIndex = 18;
             this.lbl_Cadastro_Pessoal.Text = "Cadastro Pessoal";
+=======
+            this.Lbl_Cadastro_Pessoal.AutoSize = true;
+            this.Lbl_Cadastro_Pessoal.BackColor = System.Drawing.Color.Transparent;
+            this.Lbl_Cadastro_Pessoal.Location = new System.Drawing.Point(361, 241);
+            this.Lbl_Cadastro_Pessoal.Name = "Lbl_Cadastro_Pessoal";
+            this.Lbl_Cadastro_Pessoal.Size = new System.Drawing.Size(89, 13);
+            this.Lbl_Cadastro_Pessoal.TabIndex = 18;
+            this.Lbl_Cadastro_Pessoal.Text = "Cadastro Pessoal";
+>>>>>>> 8af7a049e22362a27e0377c1e55dddfe9f33b982
             // 
             // Grp_Temas
             // 
@@ -334,6 +348,7 @@
             this.btn_Email.TabIndex = 25;
             this.btn_Email.Text = "Email";
             this.btn_Email.UseVisualStyleBackColor = false;
+            this.btn_Email.Click += new System.EventHandler(this.btn_Email_Click);
             // 
             // lbl_Resultado
             // 
