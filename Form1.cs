@@ -46,5 +46,15 @@ namespace Cadastro_2
         {
             BackgroundImage = Properties.Resources.girl_is_typing_laptop_keyboard_girls_hands_keyboard;
         }
+
+        private void Btn_Celular_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Frm_cadastro_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
