@@ -19,7 +19,10 @@ namespace Cadastro_2
 
         private void button6_Click(object sender, EventArgs e)
         {
-          
+            Lbl_Resultado.Text = Txt_Nome.Text + "  " + Txt_Sobrenome.Text + "\n" + 
+                Txt_Idade.Text + "\n" +
+                Txt_Bairro.Text + Txt_Celular.Text + "\n"  + Txt_Email.Text;
+            //+ Concatenar (Juntar) "\N" Quebra de linha (descer)
         }
 
         private void Lbl_Bairro_Click(object sender, EventArgs e)
@@ -76,5 +79,17 @@ namespace Cadastro_2
         {
             Lbl_Resultado.Text = Txt_Email.Text;
         }
+
+        private void Btn_Limpar_Click(object sender, EventArgs e)
+        {
+            Lbl_Resultado.Text = ""; //limpandoa label 
+            Txt_Bairro.Clear();
+            Txt_Celular.Clear();    
+            Txt_Email.Clear();
+            Txt_Idade.Clear();
+            Txt_Nome.Clear();
+            Txt_Sobrenome.Clear();
+           
+		}
     }
 }
