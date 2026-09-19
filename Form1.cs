@@ -50,6 +50,16 @@ namespace Cadastro_2
             BackgroundImage = Properties.Resources.girl_is_typing_laptop_keyboard_girls_hands_keyboard;
         }
 
+<<<<<<< HEAD
+        private void Btn_Celular_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Frm_cadastro_Load(object sender, EventArgs e)
+        {
+
+=======
         private void Btn_Nome_Click(object sender, EventArgs e)
         {
             Lbl_Resultado.Text = Txt_Nome.Text;
@@ -78,6 +88,7 @@ namespace Cadastro_2
         private void btn_Email_Click(object sender, EventArgs e)
         {
             Lbl_Resultado.Text = Txt_Email.Text;
+>>>>>>> 8af7a049e22362a27e0377c1e55dddfe9f33b982
         }
 
         private void Btn_Limpar_Click(object sender, EventArgs e)

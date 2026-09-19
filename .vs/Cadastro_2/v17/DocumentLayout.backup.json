@@ -3,12 +3,25 @@
   "WorkspaceRootPath": "C:\\Users\\DB\\Desktop\\gio\\Cadastro_2\\",
   "Documents": [
     {
+<<<<<<< HEAD
       "AbsoluteMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|C:\\Users\\DB\\Desktop\\gio\\Cadastro_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+=======
+<<<<<<< HEAD
+      "AbsoluteMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|C:\\Users\\DB\\Desktop\\Cadastro_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|c:\\users\\db\\desktop\\cadastro_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+=======
+      "AbsoluteMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|c:\\users\\db\\documents\\github\\cadastro_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+>>>>>>> 6c31f86f4d4834c3959fdb470c2e715557ced718
       "RelativeMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|c:\\users\\db\\desktop\\gio\\cadastro_2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{D7FF65EC-9127-4B04-93BD-FD4A01CBADFE}|Cadastro_2.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+>>>>>>> 8af7a049e22362a27e0377c1e55dddfe9f33b982
     }
   ],
   "DocumentGroupContainers": [
@@ -18,15 +31,36 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
+<<<<<<< HEAD
           "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
-            },
+=======
+          "SelectedChildIndex": 1,
+          "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DB\\Documents\\GitHub\\Cadastro_2\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DB\\Documents\\GitHub\\Cadastro_2\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+<<<<<<< HEAD
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+=======
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAAAAAAAAAAAAA==",
+>>>>>>> 8af7a049e22362a27e0377c1e55dddfe9f33b982
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-15T22:41:12.365Z",
+              "EditorCaption": ""
+>>>>>>> 6c31f86f4d4834c3959fdb470c2e715557ced718
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DB\\Desktop\\gio\\Cadastro_2\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
